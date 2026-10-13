@@ -31,7 +31,9 @@ The AI-Based Medical Chatbot is a Python project designed to answer users' healt
 2. Open "Medical_chatbot (2).ipynb" in Google Colab or Jupyter Notebook.
 3. Install the required Python libraries.
 4. Configure your Gemini API key securely.
-5. Run the notebook cells in order and test the chatbot.
+5. Run the notebook cells in order and test the chatbot.## 🖥️ Project Screenshot
+
+![AI Medical Chatbot](medical-chatbot.png)
 
 ⚠️ Disclaimer
 
